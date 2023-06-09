@@ -1,10 +1,10 @@
 # Cinnamon Angels Fly Fly Away
 
-Welcome to the Cinnamon Angels Fly Fly Away repository! This repository contains the source code and assets for the Cinnamon Angels Fly Fly Away Page, a fake charity organization raising awareness for children with cinnamon allergies.
+Welcome to the Cinnamon Angels Fly Fly Away repository! This repository contains the source code and assets for the Cinnamon Angels Fly Fly Away Page, a fake charity organization raising awareness for children with cinnamon allergies. The page is hosted [here!](https://r3neschou.github.io/cinnamon/)
 
 ## About
 
-Cinnamon Angels is dedicated to providing support and resources for children with cinnamon allergies. Our mission is to create a safe and inclusive environment where children can thrive, free from the limitations imposed by their allergies. See more on [Cinnamon Angels Intro](https://www.youtube.com/watch?v=8xcKSjG0Otk&ab_channel=OMGitsjustcomedy)
+Cinnamon Angels is dedicated to providing support and resources for children with cinnamon allergies. Our mission is to create a safe and inclusive environment where children can thrive, free from the limitations imposed by their allergies. See more on this youtube video on [Cinnamon Angels Fly Fly Away](https://youtu.be/8xcKSjG0Otk?t=16)
 
 ## Features
 
