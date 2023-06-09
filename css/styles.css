@@ -33,6 +33,7 @@ body {
   }
   
   .white-section {
+    margin-top: 3rem;
     background-color: #fff;
   }
     
@@ -71,24 +72,27 @@ body {
   .quote {
     flex: 1;
     text-align: left;
-    font-size: 16px;
+    font-size: 20px;
     padding-right: 20px;
   }
   
   .quote blockquote {
     font-style: italic;
     color: #333;
+    margin-left: 30px;
+    text-align: center;
   }
   
   .quote cite {
     display: block;
     margin-top: 10px;
+    margin-left: 30px;
     font-weight: bold;
   }
   
   .image {
     flex: 1;
-    text-align: right;
+    text-align: center;
     padding-left: 20px;
   }
   
@@ -156,7 +160,7 @@ body {
   
   #testimonials {
     background-color: #E8AA42;
-    padding-bottom: 10rem; /* Adjust the value as needed */
+    padding-bottom: 20rem; 
   }
   
   .testimonial-text {
